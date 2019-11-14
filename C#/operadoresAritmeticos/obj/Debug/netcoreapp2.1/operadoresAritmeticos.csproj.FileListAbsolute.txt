@@ -1,0 +1,10 @@
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAritmeticos\bin\Debug\netcoreapp2.1\operadoresAritmeticos.deps.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAritmeticos\bin\Debug\netcoreapp2.1\operadoresAritmeticos.runtimeconfig.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAritmeticos\bin\Debug\netcoreapp2.1\operadoresAritmeticos.runtimeconfig.dev.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAritmeticos\bin\Debug\netcoreapp2.1\operadoresAritmeticos.dll
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAritmeticos\bin\Debug\netcoreapp2.1\operadoresAritmeticos.pdb
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAritmeticos\obj\Debug\netcoreapp2.1\operadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAritmeticos\obj\Debug\netcoreapp2.1\operadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAritmeticos\obj\Debug\netcoreapp2.1\operadoresAritmeticos.AssemblyInfo.cs
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAritmeticos\obj\Debug\netcoreapp2.1\operadoresAritmeticos.dll
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAritmeticos\obj\Debug\netcoreapp2.1\operadoresAritmeticos.pdb

@@ -24,7 +24,7 @@ namespace PCI
 
             // Concatenação - Com 2 casas decimais
             Console.WriteLine(nome + " tem " + idade + " anos e tem saldo igual a " + saldo.ToString("F2") + " reais ");
-
+         
         }
     }
 }

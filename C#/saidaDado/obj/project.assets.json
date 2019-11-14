@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joao.guedes\\Desktop\\C# Udemy\\saidaDados\\saidaDado\\saidaDado.csproj",
+      "projectUniqueName": "C:\\Users\\joao.guedes\\Desktop\\C# Udemy\\C#\\saidaDado\\saidaDado.csproj",
       "projectName": "saidaDado",
-      "projectPath": "C:\\Users\\joao.guedes\\Desktop\\C# Udemy\\saidaDados\\saidaDado\\saidaDado.csproj",
+      "projectPath": "C:\\Users\\joao.guedes\\Desktop\\C# Udemy\\C#\\saidaDado\\saidaDado.csproj",
       "packagesPath": "C:\\Users\\joao.guedes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joao.guedes\\Desktop\\C# Udemy\\saidaDados\\saidaDado\\obj\\",
+      "outputPath": "C:\\Users\\joao.guedes\\Desktop\\C# Udemy\\C#\\saidaDado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

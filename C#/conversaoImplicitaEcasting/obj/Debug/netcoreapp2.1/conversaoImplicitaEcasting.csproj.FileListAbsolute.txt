@@ -1,0 +1,11 @@
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\conversaoImplicitaEcasting\bin\Debug\netcoreapp2.1\conversaoImplicitaEcasting.deps.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\conversaoImplicitaEcasting\bin\Debug\netcoreapp2.1\conversaoImplicitaEcasting.runtimeconfig.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\conversaoImplicitaEcasting\bin\Debug\netcoreapp2.1\conversaoImplicitaEcasting.runtimeconfig.dev.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\conversaoImplicitaEcasting\bin\Debug\netcoreapp2.1\conversaoImplicitaEcasting.dll
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\conversaoImplicitaEcasting\bin\Debug\netcoreapp2.1\conversaoImplicitaEcasting.pdb
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\conversaoImplicitaEcasting\obj\Debug\netcoreapp2.1\conversaoImplicitaEcasting.csproj.CoreCompileInputs.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\conversaoImplicitaEcasting\obj\Debug\netcoreapp2.1\conversaoImplicitaEcasting.AssemblyInfoInputs.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\conversaoImplicitaEcasting\obj\Debug\netcoreapp2.1\conversaoImplicitaEcasting.AssemblyInfo.cs
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\conversaoImplicitaEcasting\obj\Debug\netcoreapp2.1\conversaoImplicitaEcasting.dll
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\conversaoImplicitaEcasting\obj\Debug\netcoreapp2.1\conversaoImplicitaEcasting.pdb
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\conversaoImplicitaEcasting\obj\Debug\netcoreapp2.1\conversaoImplicitaEcasting.csprojAssemblyReference.cache

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joao.guedes\\Desktop\\C# Udemy\\saidaDados\\PCI\\PCI.csproj",
+      "projectUniqueName": "C:\\Users\\joao.guedes\\Desktop\\C# Udemy\\C#\\PCI\\PCI.csproj",
       "projectName": "PCI",
-      "projectPath": "C:\\Users\\joao.guedes\\Desktop\\C# Udemy\\saidaDados\\PCI\\PCI.csproj",
+      "projectPath": "C:\\Users\\joao.guedes\\Desktop\\C# Udemy\\C#\\PCI\\PCI.csproj",
       "packagesPath": "C:\\Users\\joao.guedes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joao.guedes\\Desktop\\C# Udemy\\saidaDados\\PCI\\obj\\",
+      "outputPath": "C:\\Users\\joao.guedes\\Desktop\\C# Udemy\\C#\\PCI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

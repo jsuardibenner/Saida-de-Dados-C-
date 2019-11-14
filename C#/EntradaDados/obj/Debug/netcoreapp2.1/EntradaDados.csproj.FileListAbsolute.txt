@@ -1,0 +1,10 @@
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\EntradaDados\bin\Debug\netcoreapp2.1\EntradaDados.deps.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\EntradaDados\bin\Debug\netcoreapp2.1\EntradaDados.runtimeconfig.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\EntradaDados\bin\Debug\netcoreapp2.1\EntradaDados.runtimeconfig.dev.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\EntradaDados\bin\Debug\netcoreapp2.1\EntradaDados.dll
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\EntradaDados\bin\Debug\netcoreapp2.1\EntradaDados.pdb
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\EntradaDados\obj\Debug\netcoreapp2.1\EntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\EntradaDados\obj\Debug\netcoreapp2.1\EntradaDados.AssemblyInfoInputs.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\EntradaDados\obj\Debug\netcoreapp2.1\EntradaDados.AssemblyInfo.cs
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\EntradaDados\obj\Debug\netcoreapp2.1\EntradaDados.dll
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\EntradaDados\obj\Debug\netcoreapp2.1\EntradaDados.pdb

@@ -9,3 +9,14 @@ C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\PCI\obj\Debug\netcoreapp2.1\PCI
 C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\PCI\obj\Debug\netcoreapp2.1\PCI.AssemblyInfo.cs
 C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\PCI\obj\Debug\netcoreapp2.1\PCI.dll
 C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\PCI\obj\Debug\netcoreapp2.1\PCI.pdb
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\PCI\bin\Debug\netcoreapp2.1\PCI.deps.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\PCI\bin\Debug\netcoreapp2.1\PCI.runtimeconfig.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\PCI\bin\Debug\netcoreapp2.1\PCI.runtimeconfig.dev.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\PCI\bin\Debug\netcoreapp2.1\PCI.dll
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\PCI\bin\Debug\netcoreapp2.1\PCI.pdb
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\PCI\obj\Debug\netcoreapp2.1\PCI.csprojAssemblyReference.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\PCI\obj\Debug\netcoreapp2.1\PCI.csproj.CoreCompileInputs.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\PCI\obj\Debug\netcoreapp2.1\PCI.AssemblyInfoInputs.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\PCI\obj\Debug\netcoreapp2.1\PCI.AssemblyInfo.cs
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\PCI\obj\Debug\netcoreapp2.1\PCI.dll
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\PCI\obj\Debug\netcoreapp2.1\PCI.pdb

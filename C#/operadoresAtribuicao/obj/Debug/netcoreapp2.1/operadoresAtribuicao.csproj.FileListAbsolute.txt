@@ -1,0 +1,11 @@
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAtribuicao\bin\Debug\netcoreapp2.1\operadoresAtribuicao.deps.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAtribuicao\bin\Debug\netcoreapp2.1\operadoresAtribuicao.runtimeconfig.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAtribuicao\bin\Debug\netcoreapp2.1\operadoresAtribuicao.runtimeconfig.dev.json
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAtribuicao\bin\Debug\netcoreapp2.1\operadoresAtribuicao.dll
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAtribuicao\bin\Debug\netcoreapp2.1\operadoresAtribuicao.pdb
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAtribuicao\obj\Debug\netcoreapp2.1\operadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAtribuicao\obj\Debug\netcoreapp2.1\operadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAtribuicao\obj\Debug\netcoreapp2.1\operadoresAtribuicao.AssemblyInfo.cs
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAtribuicao\obj\Debug\netcoreapp2.1\operadoresAtribuicao.dll
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAtribuicao\obj\Debug\netcoreapp2.1\operadoresAtribuicao.pdb
+C:\Users\joao.guedes\Desktop\C# Udemy\C#\operadoresAtribuicao\obj\Debug\netcoreapp2.1\operadoresAtribuicao.csprojAssemblyReference.cache
