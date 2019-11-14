@@ -1,0 +1,11 @@
+C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\saidaDado\bin\Debug\netcoreapp2.1\saidaDado.deps.json
+C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\saidaDado\bin\Debug\netcoreapp2.1\saidaDado.runtimeconfig.json
+C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\saidaDado\bin\Debug\netcoreapp2.1\saidaDado.runtimeconfig.dev.json
+C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\saidaDado\bin\Debug\netcoreapp2.1\saidaDado.dll
+C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\saidaDado\bin\Debug\netcoreapp2.1\saidaDado.pdb
+C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\saidaDado\obj\Debug\netcoreapp2.1\saidaDado.csprojAssemblyReference.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\saidaDado\obj\Debug\netcoreapp2.1\saidaDado.csproj.CoreCompileInputs.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\saidaDado\obj\Debug\netcoreapp2.1\saidaDado.AssemblyInfoInputs.cache
+C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\saidaDado\obj\Debug\netcoreapp2.1\saidaDado.AssemblyInfo.cs
+C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\saidaDado\obj\Debug\netcoreapp2.1\saidaDado.dll
+C:\Users\joao.guedes\Desktop\C# Udemy\saidaDados\saidaDado\obj\Debug\netcoreapp2.1\saidaDado.pdb
